@@ -134,6 +134,7 @@ You're receiving this codebase ahead of a 75-minute live coding session. Here's 
 **Before the session:**
 - Clone the repo and get all three components running (Ollama, backend, frontend)
 - Familiarise yourself with the codebase, how it's structured and how the pieces fit together
+- Feel free to use AI to explore the codebase, but make sure you personally understand how the application works. During the interview, we'll expect you to navigate, reason about, and extend the code yourself
 - Try submitting a payment and using the AI categorization feature
 - Make sure your preferred AI coding tools are set up and ready (Claude Code, Copilot, Cursor, etc.)
 
